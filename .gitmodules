@@ -1,0 +1,3 @@
+[submodule "LLM_application_chatbot"]
+	path = LLM_application_chatbot
+	url = https://github.com/Labrosvel/LLM_application_chatbot.git
